@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/XP7z8k8S/raw"))()
+https://www.roblox.com/share?code=d9e7923203587249a26d5ea6cdcde552&type=Server
