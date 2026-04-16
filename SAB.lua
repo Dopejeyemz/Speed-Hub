@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/97PLGeXj/raw"))()
+https://api.jnkie.com/api/v1/luascripts/public/fc5b8629f29db50374aab3e5b436f942a01dd92a713998fbcb8fba4b5a78bc1e/download
